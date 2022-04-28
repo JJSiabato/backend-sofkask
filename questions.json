@@ -1,0 +1,66 @@
+[
+    {
+        "id":"q1",
+        "categoria":"Tecnología",
+        "title" : "HTML Básico",
+        "description":"Prueba sencilla para medir conocimientos báscos de HTML",
+        "questions":[
+            {
+                "id":1,
+                "nivel":1,
+                "question": "¿cual es la extensión de un archivo de una pagina HTML5?",
+                "options": 
+                    {
+                        "res1":".web",
+                        "res2":".html5",
+                        "res3":".html",
+                        "res4":".www"
+                    }
+                ,
+                "answer":"res3"
+            },
+            {
+                "id":2,
+                "nivel":1,
+                "question": "¿Qué significa HTML?",
+                "options": 
+                    {
+                        "res1":"Hyper Text Mask Language",
+                        "res2":"Hard Text Markup Language",
+                        "res3":"Hyper Text Markup Language",
+                        "res4":"Hiper Type Markup Language"
+                    }
+                ,
+                "answer":"res3"
+            },
+            {
+                "id":3,
+                "nivel":1,
+                "question": "¿Cuál de los siguientes Doctype es el que utilizarías para un documento HTML5?",
+                "options": 
+                    {
+                        "res1":"&lt;!doctype html5&gt;",
+                        "res2":"&lt;!DOCTYPE html PUBLIC \"-//W3C//DTD HTML 5.0 Transitional//EN\"&gt;",
+                        "res3":"&lt;!doctype html&gt;",
+                        "res4":"No existe la etiqueta Doctype"
+                    }
+                ,
+                "answer":"res3"
+            },
+            {
+                "id":4,
+                "nivel":2,
+                "question": "¿Cuál de los siguientes usos del elemento &lt;script&gt; te parece el más apropiado?",
+                "options": 
+                    {
+                        "res1":"&lt;script src=\"archivo.js\"&gt;&lt;/script&gt;",
+                        "res2":"&lt;script src=\"archivo.js\" /&gt;",
+                        "res3":"&lt;script type=\"text/javascript\" src=\"archivo.js\"&gt;&lt;/script&gt;",
+                        "res4":"&lt;link src =\"archivo.js\"/&gt;"
+                    }
+                ,
+                "answer":"res1"
+            }
+        ]    
+    }
+]
